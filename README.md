@@ -3,6 +3,9 @@
 The provided Python program is for calculating the bearing capacity of piles based on various input parameters. 
 **It takes user inputs**, **performs calculations**, and** generates a report with the results**.
 
+# NOTE:
+Reading the instructions provided inside the program is a MUST. All the information can't be written here. It tells which all assumptions were made, what is the correct way for giving input parameters etc. If running the script on Linux or Mac, make the script executable first. Then run the program. All the packages not already installed are taken care of the program itself. Make sure you are connected to the internet when running the program for the first time
+
 # Brief overview of what the program does:
 
 The program begins by **importing required libraries** and defining functions for various tasks, such as clearing the screen, checking and installing packages, updating run counts, generating report indexes, displaying instructions, showing information about the developers, performing computations, and displaying the report index.
